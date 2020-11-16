@@ -1,0 +1,1 @@
+This is Hazel's first git project!
